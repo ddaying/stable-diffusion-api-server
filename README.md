@@ -41,6 +41,13 @@ M1 Macs:
 % conda env create -f environment-m1.yaml
 ```
 
+Intel Macs:
+
+```
+% conda env create -f environment-macOS.yaml
+```
+
+
 Then activate the Conda environment:
 
 ```
